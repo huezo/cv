@@ -4,7 +4,7 @@
 
 Encargado de la automatización de los despliegues, Creación de Ambientes y Planeación de Ambientes Con Docker y Kubernetes.
 
-Encargado de la Administración de Servidores de DEV, QA y Pre-Producción.
+Encargado de la Administración de Servidores de GNU/Linux.
 
 Implementación de Arquitecturas De Alta Disponibilidad en Contenedores.
 
