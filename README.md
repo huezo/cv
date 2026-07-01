@@ -4,7 +4,7 @@
 [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
 
 ## Sitio alterno 🌐  
-[http://huezo.github.io/huezo/](http://huezo.github.io/huezo/)
+[https://huezo.gitlab.io/](https://huezo.gitlab.io/)
 
 ## Gravatar 👤  
 [https://gravatar.com/huezohuezo1990](https://gravatar.com/huezohuezo1990)
